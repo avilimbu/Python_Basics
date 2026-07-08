@@ -2,7 +2,8 @@
 
 1. Wrtie a pyhton program to display a user entered name followed by Good Afternoon using input() function
 2. Write a program to fill in a letter tamplete given below with name and date.
-```letters = Dear <|Name|>,
+```
+letters = Dear <|Name|>,
 You are choosen to come in seminar.
 <|Date|>
 ```
