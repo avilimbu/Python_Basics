@@ -1,7 +1,8 @@
-# Chapter 1 | Modules, Comments $ pip
+# Chapter 1 | Modules, Comments & pip
 
-A module is a file containing code written by someone else(usually) which can be imported and used in our program
-Pip is a package manager for pyhton. We use it to install a module on our system
+A module is a file containing code written by someone else(usually) which can be imported and used in our program.
+
+Pip is a package manager for pyhton. We use it to install a module on our system.
 
 >>Two types of modules
 
