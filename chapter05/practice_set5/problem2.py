@@ -1,0 +1,22 @@
+# Write a program to input `8` no from the users and display all the unique numbers (once).
+
+s = set()
+
+n= input("enter no 1: ")
+s.add(int(n))
+n= input("enter no 2: ")
+s.add(int(n))
+n= input("enter no 3: ")
+s.add(int(n))
+n= input("enter no 4: ")
+s.add(int(n))
+n= input("enter no 5: ")
+s.add(int(n))
+n= input("enter no 6: ")
+s.add(int(n))
+n= input("enter no 7: ")
+s.add(int(n))
+n= input("enter no 8: ")
+s.add(int(n))
+
+print(s)
