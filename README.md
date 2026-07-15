@@ -12,5 +12,5 @@ This repository contains all the Python concepts, programs, and practice exercis
 4. Lists and Tuples
 5. Dictionary and Sets
 6. Conditional Expressions
-7. Loop
+7. Loop in Python
 8. Functions and Recursions
