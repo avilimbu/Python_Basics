@@ -8,3 +8,9 @@ This repository contains all the Python concepts, programs, and practice exercis
 
 1. Modules, Comments, and pip
 2. Varibles and Data Types
+3. Strings
+4. Lists and Tuples
+5. Dictionary and Sets
+6. Conditional Expressions
+7. Loop
+8. Functions and Recursions
