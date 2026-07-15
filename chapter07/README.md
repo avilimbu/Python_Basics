@@ -365,6 +365,33 @@ This program runs without any error, even though no action is performed.
 
 ---
 
+## `end` Parameter in Python
+
+The `end` parameter in the `print()` function specifies what should be printed after the output. By default, `print()` ends with a newline (`\n`), which moves the cursor to the next line.
+
+### Syntax
+
+```python
+print(value, end="")
+```
+
+### Example
+
+```python
+print("Hello", end="")
+print("World")
+```
+
+**Output:**
+
+```text
+HelloWorld
+```
+
+> **Note:** `end=""` removes the default newline, allowing the next `print()` statement to continue on the same line.
+
+---
+
 # Summary
 
 Loops are essential for automating repetitive tasks in Python. The `while` loop is ideal when the number of iterations is unknown, while the `for` loop is preferred for iterating over sequences or a known range of values. Python also provides control statements such as `break`, `continue`, and `pass` to modify loop behavior, making programs more flexible, readable, and efficient.
