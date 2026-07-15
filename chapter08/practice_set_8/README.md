@@ -1,4 +1,4 @@
-## Functions and Recursions | Practice Questions
+## Functions and Recursions | Questions
 
 ---
 
