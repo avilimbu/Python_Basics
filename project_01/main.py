@@ -64,5 +64,5 @@ while True:
     else:
         print("Thank you for playing the game.")
         break
-    cont= input("Do you want to continue this game. Enter (yes/no): ").strip().lower()
+    cont= input("Do you want to continue this game.\nEnter 'yes' to continue and Anything to end the game: ").strip().lower()
     print("\n")
