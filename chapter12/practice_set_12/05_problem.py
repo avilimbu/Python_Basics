@@ -3,10 +3,11 @@
 try:
     n = int(input("Enter a number: "))
     table = [f"{i}*{n}={i*n}" for i in range(1,11)]
+    final = "\n".join(table)
     with open("table.txt", "a") as f:
-        f.write("_" * 20 + "\n")
-        f.write(f"Table of {n}\n")
-        f.write(str(table) + "\n")
+        f.write(f"Multiplication table of {n} \n")
+        f.write(final)
+        f.write("\n \n")
 
 except Exception as e:
     print(e)
